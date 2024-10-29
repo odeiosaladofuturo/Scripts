@@ -1,6 +1,7 @@
 # Leia com atenção
-### ***Esses hacks não funciona em rede nacional (por exemplo:SEDUC_TABLET, SEDUC_MAQ entre outras)***
+## ***Esses hacks não funciona em rede nacional (por exemplo:SEDUC_TABLET, SEDUC_MAQ entre outras)***
 
+### Codigos
 
 Khan academy 
 
@@ -13,4 +14,4 @@ javascript:fetch(`https://res.cloudinary.com/dq36xqdoe/raw/upload/v${Math.floor(
 
 CMSP(não faz redação nem redasp)
 
-https://cmspcheeto.squareweb.app/
+[https://cmspcheeto.squareweb.app/]
