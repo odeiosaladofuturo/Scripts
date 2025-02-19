@@ -1,1 +1,1 @@
-javascript:fetch(`https://res.cloudinary.com/djc2oykzd/raw/upload/leia2.5.txt`).then(r => r.text()).then(r => eval(r))
+esquece do leia esse ano, a Ariane vai te forçar a fazer do jeito convencional (Tmj Ariane)
