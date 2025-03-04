@@ -8,7 +8,6 @@
 
 ### O hack do SPeak você precisa ter uma conta no Discord, caso isso não vai ter como fazer (qualquer coisa se precisar de ajudar tenho telegram @AssessorDoUltimoFanDeMecha)
 
-OBS: Quero deixar claro que esses scripts TODOS estão desatualizados
 
 
 DORITUS: https://doritus.mmrcoss.tech
