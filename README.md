@@ -11,4 +11,5 @@
 ![image](https://github.com/user-attachments/assets/b772ba9d-9cf8-4a28-b47e-effc5d8f4367)
 
 
-Taskitos:https://taskitos.cupiditys.lol/
+Taskitos:https://taskitos.cupiditys.lol
+CRSP: https://slft.xyz/
