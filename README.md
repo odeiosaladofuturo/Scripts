@@ -10,6 +10,7 @@
 
 ![image](https://github.com/user-attachments/assets/b772ba9d-9cf8-4a28-b47e-effc5d8f4367)
 
+Finalmente fiquei inspirado pra mexer isso, logo às 4:05 😔
 
 Taskitos:https://taskitos.cupiditys.lol
 CRSP: https://slft.xyz/
