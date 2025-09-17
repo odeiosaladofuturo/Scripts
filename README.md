@@ -6,7 +6,7 @@
 
 
 
-### O hack do SPeak você precisa ter uma conta no Discord, caso isso não vai ter como fazer (qualquer coisa se precisar de ajudar tenho telegram @AssessorDoUltimoFanDeMecha)
+### As coisas ta dentro do Src caso tenha preguiça de entrar la, vai dormir logo
 
 <img src="https://github.com/user-attachments/assets/b772ba9d-9cf8-4a28-b47e-effc5d8f4367" alt=":D" width="350" />
 
