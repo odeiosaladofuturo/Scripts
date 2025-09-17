@@ -2,7 +2,7 @@
 
 
 
-## Esses hacks não funciona em rede nacional (SEDUC_TABLET, SEDUC_MAQ entre outras)
+## Esses hacks não funciona em rede do estado, tirando o KhanWare
 
 
 
