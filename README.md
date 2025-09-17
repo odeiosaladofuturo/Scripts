@@ -16,3 +16,5 @@ Finalmente fiquei inspirado pra mexer isso, logo às 4:05 😔
 ### Taskitos:https://taskitos.cupiditys.lol (Ta fazendo até prova)
 ### CRSP: https://slft.xyz/ (Tem aplicativo agora)
 ### Moon:https://moonscripts.cloud/ (Em Manutenção)
+### Leia:https://leiasp.cupiditys.lol/ (Funcionando)
+### Redação: https://redacao.cupiditys.lol/ (Funcionando [acredito eu])
