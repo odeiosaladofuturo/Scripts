@@ -12,6 +12,6 @@
 
 Finalmente fiquei inspirado pra mexer isso, logo às 4:05 😔
 
-Taskitos:https://taskitos.cupiditys.lol
-CRSP: https://slft.xyz/
-Moon:https://moonscripts.cloud/
+### Taskitos:https://taskitos.cupiditys.lol (Ta fazendo até prova)
+### CRSP: https://slft.xyz/ (Tem aplicativo agora)
+### Moon:https://moonscripts.cloud/ (Em Manutenção)
